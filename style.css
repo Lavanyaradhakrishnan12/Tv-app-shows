@@ -69,8 +69,8 @@ body {
 .box3 {
     width: 450px;
     position: absolute;
-    top: 40%;
+    top: 35%;
     z-index: 1;
-    font-size: 12px;
+    font-size: 15px;
     color:#000000; 
 }
